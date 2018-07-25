@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "\"Node app to find weather of a location\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pk-n/node-weather-app.git"
+  },
+  "keywords": [
+    "\"weather",
+    "app\""
+  ],
+  "author": "kpavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pk-n/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/pk-n/node-weather-app#readme"
+}
