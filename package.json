@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/pk-n/node-weather-app/issues"
   },
-  "homepage": "https://github.com/pk-n/node-weather-app#readme"
+  "homepage": "https://github.com/pk-n/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "yargs": "^12.0.1"
+  }
 }
